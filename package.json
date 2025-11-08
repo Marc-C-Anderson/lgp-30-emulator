@@ -1,0 +1,13 @@
+{
+	"name": "lgp-30-emulator",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"cf:deploy": "wrangler deploy",
+		"cf:dev": "wrangler dev",
+		"cf:start": "wrangler dev"
+	},
+	"devDependencies": {
+		"wrangler": "^4.46.0"
+	}
+}

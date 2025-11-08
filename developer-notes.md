@@ -91,10 +91,18 @@ npm i
 npm ci
 ```
 
-## Cloudflare scripts
+## Cloudflare Scripts
 
 ```shell
 npm run cf:dev
 npm run cf:build
 npm run cf:deploy
+```
+
+## Vite Scripts
+
+```shell
+npm run vite:dev
+npm run vite:build
+npm run vite:preview
 ```
